@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gunsay.
-- 👀 I’m interested in IT security. K8S and K8S security are my current favorite topics.
-- 🌱 I’m currently learning more K8S and more K8S security.
+- 👀 I’m interested in IT security. K8S, K8S security and Blockchain security are my current favorite topics.
+- 🌱 I’m currently learning more K8S, more K8S security and more Blockchain security.
 - 📫 You can reach me via my user account.
 
 <!---
