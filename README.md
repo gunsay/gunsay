@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gunsay.
 - 👀 IT security is my hobby and profession. K8S, K8S security and Blockchain security are my current favorite topics.
-- 🌱 I’m currently learning more K8S, more K8S security and more Blockchain security.
+- 🌱 I’ve currently delved into Blockchain security, finishing one bootcamp after the other :)
 - 📫 You can reach me via my discord account gunsay#6294
 
 <!---
