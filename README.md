@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gunsay.
 - 👀 IT security is my hobby and profession. Blockchain security is my current favorite topic.
-- 🌱 Currently doing my internship on smart contract auditing @ Nethermind :)
-- 📫 You can reach me via my discord account gunsay#6294
+- 🌱 Currently working as the Security Lead for onchaind and offchaing networks :)
+- 📫 You can reach me via my discord account mgunsay
 
 <!---
 gunsay/gunsay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
